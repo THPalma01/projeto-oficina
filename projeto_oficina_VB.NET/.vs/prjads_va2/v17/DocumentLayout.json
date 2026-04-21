@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Material Fatec\\Segundo_Semestre\\Humberto\\OFICINA\\Humberto\\prjads_va2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2325938E-4F29-4617-8930-719FC42BF75D}|prjads_va2.vbproj|e:\\material fatec\\segundo_semestre\\humberto\\oficina\\humberto\\prjads_va2\\cadastrar_veiculos.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2325938E-4F29-4617-8930-719FC42BF75D}|prjads_va2.vbproj|solutionrelative:cadastrar_veiculos.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2325938E-4F29-4617-8930-719FC42BF75D}|prjads_va2.vbproj|E:\\Material Fatec\\Segundo_Semestre\\Humberto\\OFICINA\\Humberto\\prjads_va2\\cadastrar_clientes.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2325938E-4F29-4617-8930-719FC42BF75D}|prjads_va2.vbproj|solutionrelative:cadastrar_clientes.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2325938E-4F29-4617-8930-719FC42BF75D}|prjads_va2.vbproj|E:\\Material Fatec\\Segundo_Semestre\\Humberto\\OFICINA\\Humberto\\prjads_va2\\checklist.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2325938E-4F29-4617-8930-719FC42BF75D}|prjads_va2.vbproj|solutionrelative:checklist.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2325938E-4F29-4617-8930-719FC42BF75D}|prjads_va2.vbproj|E:\\Material Fatec\\Segundo_Semestre\\Humberto\\OFICINA\\Humberto\\prjads_va2\\menugeral.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2325938E-4F29-4617-8930-719FC42BF75D}|prjads_va2.vbproj|solutionrelative:menugeral.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2325938E-4F29-4617-8930-719FC42BF75D}|prjads_va2.vbproj|E:\\Material Fatec\\Segundo_Semestre\\Humberto\\OFICINA\\Humberto\\prjads_va2\\cadastrar_veiculos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2325938E-4F29-4617-8930-719FC42BF75D}|prjads_va2.vbproj|solutionrelative:cadastrar_veiculos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2325938E-4F29-4617-8930-719FC42BF75D}|prjads_va2.vbproj|E:\\Material Fatec\\Segundo_Semestre\\Humberto\\OFICINA\\Humberto\\prjads_va2\\cadastrar_clientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2325938E-4F29-4617-8930-719FC42BF75D}|prjads_va2.vbproj|solutionrelative:cadastrar_clientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2325938E-4F29-4617-8930-719FC42BF75D}|prjads_va2.vbproj|E:\\Material Fatec\\Segundo_Semestre\\Humberto\\OFICINA\\Humberto\\prjads_va2\\menu_login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2325938E-4F29-4617-8930-719FC42BF75D}|prjads_va2.vbproj|solutionrelative:menu_login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|prjads_va2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cadastrar_veiculos.Designer.vb",
+              "DocumentMoniker": "E:\\Material Fatec\\Segundo_Semestre\\Humberto\\OFICINA\\Humberto\\prjads_va2\\Cadastrar_veiculos.Designer.vb",
+              "RelativeDocumentMoniker": "Cadastrar_veiculos.Designer.vb",
+              "ToolTip": "E:\\Material Fatec\\Segundo_Semestre\\Humberto\\OFICINA\\Humberto\\prjads_va2\\Cadastrar_veiculos.Designer.vb",
+              "RelativeToolTip": "Cadastrar_veiculos.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-01T16:04:50.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cadastrar_Clientes.Designer.vb",
+              "DocumentMoniker": "E:\\Material Fatec\\Segundo_Semestre\\Humberto\\OFICINA\\Humberto\\prjads_va2\\Cadastrar_Clientes.Designer.vb",
+              "RelativeDocumentMoniker": "Cadastrar_Clientes.Designer.vb",
+              "ToolTip": "E:\\Material Fatec\\Segundo_Semestre\\Humberto\\OFICINA\\Humberto\\prjads_va2\\Cadastrar_Clientes.Designer.vb",
+              "RelativeToolTip": "Cadastrar_Clientes.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-01T16:04:48.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "prjads_va2",
+              "DocumentMoniker": "E:\\Material Fatec\\Segundo_Semestre\\Humberto\\OFICINA\\Humberto\\prjads_va2\\prjads_va2.vbproj",
+              "RelativeDocumentMoniker": "prjads_va2.vbproj",
+              "ToolTip": "F:\\prjads_va2\\prjads_va2.vbproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-08T18:33:40.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Checklist.vb [Design]",
+              "DocumentMoniker": "E:\\Material Fatec\\Segundo_Semestre\\Humberto\\OFICINA\\Humberto\\prjads_va2\\Checklist.vb",
+              "RelativeDocumentMoniker": "Checklist.vb",
+              "ToolTip": "D:\\User\\Desktop\\Nova pasta (3)\\prjads_va2\\Checklist.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-08T18:30:18.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cadastrar_veiculos.vb [Design]",
+              "DocumentMoniker": "E:\\Material Fatec\\Segundo_Semestre\\Humberto\\OFICINA\\Humberto\\prjads_va2\\Cadastrar_veiculos.vb",
+              "RelativeDocumentMoniker": "Cadastrar_veiculos.vb",
+              "ToolTip": "F:\\prjads_va2\\Cadastrar_veiculos.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-07T23:22:43.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cadastrar_Clientes.vb [Design]",
+              "DocumentMoniker": "E:\\Material Fatec\\Segundo_Semestre\\Humberto\\OFICINA\\Humberto\\prjads_va2\\Cadastrar_Clientes.vb",
+              "RelativeDocumentMoniker": "Cadastrar_Clientes.vb",
+              "ToolTip": "F:\\prjads_va2\\Cadastrar_Clientes.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-06T22:04:23.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuGeral.vb [Design]",
+              "DocumentMoniker": "E:\\Material Fatec\\Segundo_Semestre\\Humberto\\OFICINA\\Humberto\\prjads_va2\\MenuGeral.vb",
+              "RelativeDocumentMoniker": "MenuGeral.vb",
+              "ToolTip": "F:\\prjads_va2\\MenuGeral.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-06T00:32:40.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu_login.vb [Design]",
+              "DocumentMoniker": "E:\\Material Fatec\\Segundo_Semestre\\Humberto\\OFICINA\\Humberto\\prjads_va2\\Menu_login.vb",
+              "RelativeDocumentMoniker": "Menu_login.vb",
+              "ToolTip": "F:\\prjads_va2\\Menu_login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-06T22:04:26.344Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+Public Class frm_clientes
+    Private Sub img_foto_Click(sender As Object, e As EventArgs) Handles img_foto.Click
+        Try
+            With OpenFileDialog1
+                .Title = "SELECIONE UMA FOTO DO CLIENTE"
+                .InitialDirectory = Application.StartupPath & "\fotos\"
+                .ShowDialog()
+                diretorio = .FileName
+                img_foto.Load(diretorio)
+            End With
+        Catch ex As Exception
+            Exit Sub
+        End Try
+    End Sub
+    Private Sub ToolStripButton1_Click(sender As Object, e As EventArgs) Handles btn_gravar.Click
+        Try
+            SQL = "select * from tb_cadastro_adsva2 where cpf = '" & txt_cpf.Text & "'"
+            rs = db.Execute(SQL)
+            If rs.EOF = True Then
+                SQL = "Insert into tb_cadastro_adsva2 (cpf,nome,data_nasc,email,foto)" &
+                    "values('" & txt_cpf.Text & "', '" & txt_nome.Text & "', " &
+                    "'" & cmb_data_nasc.Value.Date & "', '" & txt_email.Text & "', " &
+                    "'" & diretorio & "')"
+                rs = db.Execute(UCase(SQL))
+                MsgBox("Dados gravados com sucesso!", MsgBoxStyle.Information + MsgBoxStyle.OkOnly, "AVISO")
+                limpar_cadatro()
+                carregar_dados()
+            Else
+                MsgBox("CPF JA CADASTRADO!", MsgBoxStyle.Information + vbOKOnly, "AVISO")
+            End If
+        Catch ex As Exception
+            Exit Sub
+        End Try
+    End Sub
+
+    Private Sub frm_clientes_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        conectar_banco_sql_server()
+        carregar_campos()
+        carregar_dados()
+    End Sub
+
+    Private Sub txt_pesquisar_TextChanged(sender As Object, e As EventArgs) Handles txt_pesquisar.TextChanged
+        Try
+            With dgv_dados
+                cont = 1
+                .Rows.Clear()
+                SQL = "select * from tb_cadastro_adsva2 where" & cmb_campo.Text & " like '" & txt_pesquisar.Text & "%'"
+                rs = db.Execute(SQL)
+                Do While rs.EOF = False
+                    .Rows.Add(cont, rs.Fields(1).Value, rs.Fields(2).Value, Nothing, Nothing)
+                    rs.MoveNext()
+                    cont = cont + 1
+                Loop
+            End With
+        Catch ex As Exception
+            Exit Sub
+        End Try
+    End Sub
+End Class
